@@ -1,0 +1,7 @@
+E:\CSharpTest\QuestionOne\bin\Debug\QuestionOne.exe.config
+E:\CSharpTest\QuestionOne\bin\Debug\QuestionOne.exe
+E:\CSharpTest\QuestionOne\bin\Debug\QuestionOne.pdb
+E:\CSharpTest\QuestionOne\obj\Debug\QuestionOne.csproj.AssemblyReference.cache
+E:\CSharpTest\QuestionOne\obj\Debug\QuestionOne.csproj.CoreCompileInputs.cache
+E:\CSharpTest\QuestionOne\obj\Debug\QuestionOne.exe
+E:\CSharpTest\QuestionOne\obj\Debug\QuestionOne.pdb

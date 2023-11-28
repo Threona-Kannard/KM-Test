@@ -1,0 +1,7 @@
+E:\CSharpTest\QuestionThree\bin\Debug\QuestionThree.exe.config
+E:\CSharpTest\QuestionThree\bin\Debug\QuestionThree.exe
+E:\CSharpTest\QuestionThree\bin\Debug\QuestionThree.pdb
+E:\CSharpTest\QuestionThree\obj\Debug\QuestionThree.csproj.AssemblyReference.cache
+E:\CSharpTest\QuestionThree\obj\Debug\QuestionThree.csproj.CoreCompileInputs.cache
+E:\CSharpTest\QuestionThree\obj\Debug\QuestionThree.exe
+E:\CSharpTest\QuestionThree\obj\Debug\QuestionThree.pdb

@@ -1,0 +1,7 @@
+E:\CSharpTest\QuestionTwo\bin\Debug\QuestionTwo.exe.config
+E:\CSharpTest\QuestionTwo\bin\Debug\QuestionTwo.exe
+E:\CSharpTest\QuestionTwo\bin\Debug\QuestionTwo.pdb
+E:\CSharpTest\QuestionTwo\obj\Debug\QuestionTwo.csproj.AssemblyReference.cache
+E:\CSharpTest\QuestionTwo\obj\Debug\QuestionTwo.csproj.CoreCompileInputs.cache
+E:\CSharpTest\QuestionTwo\obj\Debug\QuestionTwo.exe
+E:\CSharpTest\QuestionTwo\obj\Debug\QuestionTwo.pdb
